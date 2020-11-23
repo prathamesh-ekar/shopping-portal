@@ -18,3 +18,15 @@ How to run the Online Shopping Portal using PHP and MySQL
 
 8. Link for admin Panel : http://localhost/shopping/admin
 ------------------------------------------------------------------------------------------------------
+Login Details For User :
+
+Username : prats.ekar1997@gmail.com
+
+Password : 123
+
+
+For Admin :
+
+User Name : admin
+
+Password : Test@123
