@@ -1,0 +1,63 @@
+.selectt { 
+			display: none; 
+			margin-top: 30px; 
+		} 
+label { 
+margin-right: 20px;
+}
+.input-fields {
+  display: flex;
+  justify-content: space-around;
+}
+ 
+.input-fields label {
+  display: block;
+  margin-bottom: 10px;
+  color: #b4b4b4;
+}
+ 
+.info {
+  font-size: 12px;
+  font-weight: 300;
+  display: block;
+  margin-top: 50px;
+  opacity: .5;
+  color: #2e2e2e;
+}
+ 
+div[class*='column'] {
+  width: 382px;
+}
+ 
+input[type='text'],
+input[type='password'] {
+  font-size: 16px;
+  width: 100%;
+  height: 50px;
+  padding-right: 40px;
+  padding-left: 16px;
+  color: rgba(46, 46, 46, .8);
+  border: 1px solid rgb(225, 225, 225);
+  border-radius: 4px;
+  outline: none;
+}
+ 
+input[type='text']:focus,
+input[type='password']:focus {
+  border-color: rgb(119, 219, 119);
+}
+ 
+#date { background: url(img/icons_calendar_black.png) no-repeat 95%; }
+#cardholder { background: url(img/icons_person_black.png) no-repeat 95%; }
+#cardnumber { background: url(img/icons_card_black.png) no-repeat 95%; }
+#verification { background: url(img/icons_lock_black.png) no-repeat 95%; }
+ 
+.small-inputs {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+ 
+.small-inputs div {
+  width: 182px;
+}
