@@ -6,7 +6,7 @@ How to run the Online Shopping Portal using PHP and MySQL
 
 2. Extract the file and copy shopping folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -14,7 +14,7 @@ How to run the Online Shopping Portal using PHP and MySQL
 
 6. Import shopping file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/shopping (frontend)
+7. Run the script http://localhost/shopping (frontend)
 
 8. Link for admin Panel : http://localhost/shopping/admin
 ------------------------------------------------------------------------------------------------------
